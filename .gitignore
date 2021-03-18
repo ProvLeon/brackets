@@ -63,3 +63,7 @@ package-lock.json
 
 # Files build by scripts
 /src/thirdparty/semver.browser.js
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+branch_structure.json
